@@ -1,0 +1,48 @@
+/**************************** TAG SELECTORS ****************************/
+body {
+  background-color: #DFF6F0;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1, h2, h3 {
+  color: #015668;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+/**************************** CLASS SELECTORS ****************************/
+      /* Classes can be used more than once for a single HTML file */
+
+.circular {
+  border-radius: 10%;
+}
+
+/**************************** ID SELECTORS ****************************/
+          /* ID can be used only once for a single HTML file */
+
+
+
+/*
+  Class selectors start with '.' --> .circular
+  Id selectors start with '#' --> #circular
+  Pseudo classesstart with ':' --> img:hover
+*/
+
+/*
+  + appbrewery.co/p/web-development-course-resources: resources;
+  + devdocs.io
+  + web.archive.org
+  + unicode-table.com
+  + emojipedia.org
+  + favicon.cc
+  + colorhunt.co
+  + devdocs.io
+*/
